@@ -1,3 +1,9 @@
+Research Question: Consider the problem of scheduling k jobs out of n given jobs with weights
+such that the total weighted-completion time of the k scheduled (selected) jobs is minimized.
+Is there a polynomial-time algorithm for the problem? Is there a good approximation algorithm
+for the problem?
+
+
 the jobs set includes:
 job w: 9641.0 p: 1438.0 value: 0.14915465200705322
 job w: 9454.0 p: 1457.0 value: 0.15411466046118044
